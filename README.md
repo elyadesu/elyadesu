@@ -1,0 +1,3 @@
+- 👋 Sup, I’m @elyadesu
+- 👀 I’m interested in video games, computers.
+- 🌱 I’m currently learning C++, C.
